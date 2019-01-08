@@ -1,0 +1,9 @@
+This is a ReadMe file for running the code present alongwith this.
+
+The file "Final_submission.py" consists of the pre-processing,model, predicting values on the test data and creating the pickle file.
+Make sure the test.csv ,store.csv and train.csv present in the same folder as the python file.
+
+Steps to run the code:
+Run the Algorithm file on the datasets by entering the command -
+      ----->python3 Final_submission.py
+   The program will run for some amount of time and then produce a pickle file and submission.csv will store the predicted sales value.
